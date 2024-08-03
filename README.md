@@ -1,5 +1,7 @@
 # blogs
 
+a collection of my blogs from all sources
+
 ## 2017
 Attacking Self-Hosted Skype for Business/Microsoft Lync Installations
 
