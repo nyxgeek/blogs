@@ -51,6 +51,21 @@ Shells in Plain Sight - Storing Payloads in the Cloud
 
 https://trustedsec.com/blog/shells-in-plain-sight-storing-payloads-in-the-cloud
 
+Enumerating 24 Million Users - Part 1
+
+https://nyxgeek.wordpress.com/2023/09/21/enumerating-24-million-users/
+
+
+Enumerating 24 Million Users - Part 2
+
+https://nyxgeek.wordpress.com/2023/10/05/enumerating-24-million-users-part-2/
+
+
+Mapping Colors
+
+https://nyxgeek.wordpress.com/2023/10/28/mapping-colors/
+
+
 ## 2024 
 Unwelcome Guest: Abusing Azure Guest Access to Dump Users, Groups, and more
 
